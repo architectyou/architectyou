@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenAI&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 
 
 <!--
