@@ -11,6 +11,9 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 
+I'm interested in NLP especially about LLM and Multimodal
+
+Please contact me anytime Whenever you want to study LLM with me! 🙋‍♀️
 
 <!--
 
