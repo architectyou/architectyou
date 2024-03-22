@@ -5,15 +5,19 @@
 🤔 Now I'm studying about...
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-FC4C02?style=flat-square&logo=JAVA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenAI&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 
-I'm interested in NLP especially about LLM and Multimodal
-
+I'm interested in NLP especially about LLM and LangChain Framework!
+<br/>
 Please contact me anytime Whenever you want to study LLM with me! 🙋‍♀️
+<br/>
+
 
 <!--
 
